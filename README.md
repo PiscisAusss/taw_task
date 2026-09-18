@@ -37,6 +37,7 @@ npm run lint:fix
 ## Scop
 
 Proiectul conține intenționat:
+
 - formatare neuniformă;
 - variabile neutilizate;
 - utilizarea `==` în loc de `===`;
